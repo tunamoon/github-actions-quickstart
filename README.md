@@ -1,1 +1,2 @@
 # github-actions-quickstart
+I wish the emojis were a little more relevant to the purpose of the code. I'm not too sure how a penguin or an apple is relevant to the function, but I like how you incorporated emojis! It gives the sense of you being more up to date with current trends and development.
